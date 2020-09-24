@@ -6,9 +6,6 @@ github.com/AdguardTeam/golibs/utils
 github.com/aead/chacha20/chacha
 # github.com/aead/poly1305 v0.0.0-20180717145839-3fee0db0b635
 github.com/aead/poly1305
-# github.com/ameshkov/dnscrypt v1.1.0
-github.com/ameshkov/dnscrypt
-github.com/ameshkov/dnscrypt/xsecretbox
 # github.com/ameshkov/dnsstamps v1.0.1
 github.com/ameshkov/dnsstamps
 # github.com/beefsack/go-rate v0.0.0-20180408011153-efa7637bb9b6

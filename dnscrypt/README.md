@@ -1,8 +1,3 @@
-[![Build Status](https://travis-ci.org/ameshkov/dnscrypt.svg?branch=master)](https://travis-ci.org/ameshkov/dnscrypt)
-[![Code Coverage](https://img.shields.io/codecov/c/github/ameshkov/dnscrypt/master.svg)](https://codecov.io/github/ameshkov/dnscrypt?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/ameshkov/dnscrypt)](https://goreportcard.com/report/ameshkov/dnscrypt)
-[![Go Doc](https://godoc.org/github.com/ameshkov/dnscrypt?status.svg)](https://godoc.org/github.com/ameshkov/dnscrypt)
-
 # DNSCrypt Client
 
 This is a very simple [DNSCrypt](https://dnscrypt.info/) client library written in Go.

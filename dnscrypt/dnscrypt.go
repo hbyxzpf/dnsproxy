@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ameshkov/dnscrypt/xsecretbox"
+	"github.com/AdguardTeam/dnsproxy/dnscrypt/xsecretbox"
 	"github.com/ameshkov/dnsstamps"
 	"github.com/miekg/dns"
 	"golang.org/x/crypto/curve25519"

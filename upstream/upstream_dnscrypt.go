@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/AdguardTeam/dnsproxy/dnscrypt"
 	"github.com/AdguardTeam/golibs/log"
-	"github.com/ameshkov/dnscrypt"
 	"github.com/joomcode/errorx"
 	"github.com/miekg/dns"
 )
