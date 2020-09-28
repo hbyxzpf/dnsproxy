@@ -100,7 +100,11 @@ func (p *Proxy) validateConfig() error {
 		return errors.New("server has been already started")
 	}
 
-	if p.UDPListenAddr == nil && p.TCPListenAddr == nil && p.TLSListenAddr == nil && p.HTTPSListenAddr == nil {
+	if p.UDPListenAddr == nil &&
+		p.TCPListenAddr == nil &&
+		p.TLSListenAddr == nil &&
+		p.HTTPSListenAddr == nil &&
+		p.QUICListenAddr == nil {
 		return errors.New("no listen address specified")
 	}
 
