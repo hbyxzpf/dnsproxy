@@ -47,7 +47,7 @@ github.com/miekg/dns
 github.com/patrickmn/go-cache
 # github.com/pmezard/go-difflib v1.0.0
 github.com/pmezard/go-difflib/difflib
-# github.com/stretchr/testify v1.5.1
+# github.com/stretchr/testify v1.6.1
 github.com/stretchr/testify/assert
 # golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 golang.org/x/crypto/blake2b
@@ -112,5 +112,5 @@ google.golang.org/protobuf/reflect/protoreflect
 google.golang.org/protobuf/reflect/protoregistry
 google.golang.org/protobuf/runtime/protoiface
 google.golang.org/protobuf/runtime/protoimpl
-# gopkg.in/yaml.v2 v2.3.0
-gopkg.in/yaml.v2
+# gopkg.in/yaml.v3 v3.0.0-20200605160147-a5ece683394c
+gopkg.in/yaml.v3
